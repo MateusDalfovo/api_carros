@@ -1,0 +1,31 @@
+body{
+    background-color: #a5dbf0;
+}
+
+.fundo{
+    text-align: center; 
+}
+
+input{
+    margin-top: 10px;
+    width: 15%;
+    height: 20px;
+    border-radius: 3px;    
+}
+
+.plaquinha{
+    width: 170px;
+    border-radius: 3px;
+}
+
+.botao{
+    margin: 10px;
+    width: 180px;
+    height: 25px;
+
+    background-color: rgb(161, 161, 255);
+    color: white;
+    font-size: 14px;
+    font-weight: bolder;
+    border-radius: 3px;
+}

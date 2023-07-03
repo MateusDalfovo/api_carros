@@ -1,0 +1,74 @@
+{
+    "carros":[
+        {
+            "placa": "XTR-8756",
+            "marca": "Ferrari",
+            "modelo": "Ferrari 488 GTB",
+            "ano": "2018"
+        }, 
+
+        {
+            "placa": "JKL-4321",
+            "marca": "Lamborghini",
+            "modelo": "Lamborghini Aventador",
+            "ano": "2018"
+        }, 
+
+        {
+            "placa": "QWE-9876",
+            "marca": "Porsche",
+            "modelo": "Porsche 911",
+            "ano": "2020"
+        }, 
+
+        {
+            "placa": "RTY-2468",
+            "marca": "McLaren",
+            "modelo": "McLaren 675LT",
+            "ano": "2022"
+        }, 
+
+        {
+            "placa": "VBN-5749",
+            "marca": "Aston Martin",
+            "modelo": "Aston Martin Vantage",
+            "ano": "2021"
+        }, 
+
+        {
+            "placa": "MNB-3210",
+            "marca": "Bugatti",
+            "modelo": "Bugatti Chiron",
+            "ano": "2021"
+        }, 
+
+        {
+            "placa": "GHJ-6598",
+            "marca": "Chevrolet",
+            "modelo": "Chevrolet Camaro",
+            "ano": "2017"
+        }, 
+
+        {
+            "placa": "PLO-4682",
+            "marca": "Audi",
+            "modelo": "Audi R8",
+            "ano": "2022"
+        }, 
+
+        {
+            "placa": "ZXC-8213",
+            "marca": "Mercedes-Benz",
+            "modelo": "Mercedes-Benz AMG GT",
+            "ano": "2023"
+        }, 
+
+        {
+            "placa": "FGH-7531",
+            "marca": "BMW ",
+            "modelo": "BMW M5",
+            "ano": "2023"
+        }
+
+    ]
+}
